@@ -1,0 +1,501 @@
+﻿ID,Medicine,Company,Category,Buy Price,Sell Price,Stock,Expiry Date,Supplier
+1,Napa 500,Beximco Pharmaceuticals Ltd.,Pain & Fever,185.4,207.16,100,8/30/2027,Central Medicine Store
+2,Napa Extra,Beximco Pharmaceuticals Ltd.,Pain & Fever,175.31,194.17,56,11/12/2028,Green Cross Medicine Depot
+3,Napa Extend 665,Beximco Pharmaceuticals Ltd.,Pain & Fever,85.69,96.09,246,6/20/2030,City Pharma Supplier
+4,Napa Rapid,Beximco Pharmaceuticals Ltd.,Pain & Fever,209.04,256.2,23,2/3/2028,Sample Wholesale Pharmacy
+5,Napa Syrup,Beximco Pharmaceuticals Ltd.,Pain & Fever,227.89,250.73,6,1/31/2030,North Bengal Medical Supply
+6,Napa Suspension,Beximco Pharmaceuticals Ltd.,Pain & Fever,100.06,117.51,237,5/15/2028,Central Medicine Store
+7,Ace 500,Square Pharmaceuticals PLC,Pain & Fever,172.56,212.53,27,11/8/2030,Green Cross Medicine Depot
+8,Ace Plus,Square Pharmaceuticals PLC,Pain & Fever,85.85,105.47,46,1/18/2029,City Pharma Supplier
+9,Ace XR,Square Pharmaceuticals PLC,Pain & Fever,84.76,93.61,195,8/31/2028,Sample Wholesale Pharmacy
+10,Ace Syrup,Square Pharmaceuticals PLC,Pain & Fever,106.14,122.18,117,8/13/2029,North Bengal Medical Supply
+11,Sergel 20,Healthcare Pharmaceuticals Ltd.,Gastric,131.35,156.33,114,10/25/2029,Central Medicine Store
+12,Sergel 40,Healthcare Pharmaceuticals Ltd.,Gastric,44.15,52.87,204,5/11/2028,Green Cross Medicine Depot
+13,Acifix 20,ACI Limited,Gastric,126.73,148.1,96,2/16/2028,City Pharma Supplier
+14,Acifix 40,ACI Limited,Gastric,169.02,206.78,124,1/31/2030,Sample Wholesale Pharmacy
+15,Seclo 20,Square Pharmaceuticals PLC,Gastric,148.45,179.34,242,5/8/2027,North Bengal Medical Supply
+16,Seclo 40,Square Pharmaceuticals PLC,Gastric,174.12,209.46,210,5/2/2030,Central Medicine Store
+17,Maxpro 20,Renata PLC,Gastric,41.54,51.65,120,7/2/2028,Green Cross Medicine Depot
+18,Maxpro 40,Renata PLC,Gastric,123.51,139.16,55,4/12/2030,City Pharma Supplier
+19,Pantonix 20,Incepta Pharmaceuticals Ltd.,Gastric,13.99,16.75,73,7/14/2029,Sample Wholesale Pharmacy
+20,Pantonix 40,Incepta Pharmaceuticals Ltd.,Gastric,244.17,294.71,178,12/9/2030,North Bengal Medical Supply
+21,Nexum 20,Healthcare Pharmaceuticals Ltd.,Gastric,88.3,98.75,64,1/10/2029,Central Medicine Store
+22,Nexum 40,Healthcare Pharmaceuticals Ltd.,Gastric,223.05,256.18,144,1/2/2029,Green Cross Medicine Depot
+23,Losectil 20,Eskayef Pharmaceuticals Ltd.,Gastric,89.35,102.92,237,10/4/2029,City Pharma Supplier
+24,Exium 20,Radiant Pharmaceuticals Ltd.,Gastric,46.24,51.11,174,5/3/2029,Sample Wholesale Pharmacy
+25,Finix 20,Incepta Pharmaceuticals Ltd.,Gastric,53.17,64.53,139,10/9/2029,North Bengal Medical Supply
+26,Omidon 10,Square Pharmaceuticals PLC,Digestive,35.71,44.41,29,3/1/2030,Central Medicine Store
+27,Orsaline-N,SMC Enterprise Ltd.,Oral Saline,131.91,164.55,189,3/28/2030,Green Cross Medicine Depot
+28,Orsaline Fruity,SMC Enterprise Ltd.,Oral Saline,13.65,16.09,239,10/12/2027,City Pharma Supplier
+29,Zinc-B,Popular Pharmaceuticals PLC,Vitamin & Mineral,159.52,197.26,178,3/17/2030,Sample Wholesale Pharmacy
+30,Xinc B,Square Pharmaceuticals PLC,Vitamin & Mineral,45.69,50.73,156,12/19/2028,North Bengal Medical Supply
+31,Ceevit 250,Square Pharmaceuticals PLC,Vitamin & Mineral,232.41,267.39,120,7/6/2030,Central Medicine Store
+32,Ceevit 500,Square Pharmaceuticals PLC,Vitamin & Mineral,179.91,213.82,156,5/7/2027,Green Cross Medicine Depot
+33,Bextram Gold,Beximco Pharmaceuticals Ltd.,Vitamin & Mineral,232.91,270.16,42,8/3/2027,City Pharma Supplier
+34,Bextram Silver,Beximco Pharmaceuticals Ltd.,Vitamin & Mineral,148.35,184.27,184,6/11/2030,Sample Wholesale Pharmacy
+35,E-Cap 200,Drug International Ltd.,Vitamin & Mineral,241.92,301.36,154,1/20/2030,North Bengal Medical Supply
+36,E-Cap 400,Drug International Ltd.,Vitamin & Mineral,176.08,204.87,119,11/27/2029,Central Medicine Store
+37,Coralcal-D,Incepta Pharmaceuticals Ltd.,Vitamin & Mineral,236.57,278.51,36,9/15/2027,Green Cross Medicine Depot
+38,Calbo-D,Square Pharmaceuticals PLC,Vitamin & Mineral,163.53,180.6,96,6/14/2028,City Pharma Supplier
+39,Filwel Gold,Square Pharmaceuticals PLC,Vitamin & Mineral,230.61,267.23,1,4/12/2030,Sample Wholesale Pharmacy
+40,Neuro-B,Beximco Pharmaceuticals Ltd.,Vitamin & Mineral,173.94,210.7,18,2/25/2028,North Bengal Medical Supply
+41,Fexo 120,Square Pharmaceuticals PLC,Allergy,164.27,192.43,215,4/23/2029,Central Medicine Store
+42,Fexo 180,Square Pharmaceuticals PLC,Allergy,159.09,190.5,167,11/21/2028,Green Cross Medicine Depot
+43,Alatrol 10,Square Pharmaceuticals PLC,Allergy,35.08,39.17,191,6/21/2029,City Pharma Supplier
+44,Histacin,Renata PLC,Allergy,60.65,73.85,79,9/8/2030,Sample Wholesale Pharmacy
+45,Bilastin 20,Incepta Pharmaceuticals Ltd.,Allergy,123.98,136.56,54,7/14/2027,North Bengal Medical Supply
+46,Monas 10,ACME Laboratories Ltd.,Respiratory,40.99,45.41,220,6/28/2029,Central Medicine Store
+47,Monas 5,ACME Laboratories Ltd.,Respiratory,93.73,103.64,71,7/13/2029,Green Cross Medicine Depot
+48,Montene 10,Healthcare Pharmaceuticals Ltd.,Respiratory,197.87,218.34,206,3/3/2030,City Pharma Supplier
+49,Telfast 120,Sanofi Bangladesh Ltd.,Allergy,13.54,15.95,78,11/17/2030,Sample Wholesale Pharmacy
+50,Telfast 180,Sanofi Bangladesh Ltd.,Allergy,244.31,270.06,43,5/17/2029,North Bengal Medical Supply
+51,Azithrocin 500,Square Pharmaceuticals PLC,Antibiotic,145.33,174.02,228,4/6/2030,Central Medicine Store
+52,Zimax 500,Square Pharmaceuticals PLC,Antibiotic,151.66,186.6,124,5/10/2030,Green Cross Medicine Depot
+53,Zimax 250,Square Pharmaceuticals PLC,Antibiotic,11.53,12.78,40,3/3/2030,City Pharma Supplier
+54,Cef-3 200,Square Pharmaceuticals PLC,Antibiotic,200.56,239.96,220,12/11/2028,Sample Wholesale Pharmacy
+55,Cef-3 400,Square Pharmaceuticals PLC,Antibiotic,41.58,48.75,165,10/12/2029,North Bengal Medical Supply
+56,Cefix 200,Incepta Pharmaceuticals Ltd.,Antibiotic,195.97,235.45,65,7/25/2030,Central Medicine Store
+57,Amoxil 500,GlaxoSmithKline Bangladesh Ltd.,Antibiotic,71.6,89.36,205,6/27/2029,Green Cross Medicine Depot
+58,Moxaclav 625,Incepta Pharmaceuticals Ltd.,Antibiotic,177.94,206.85,239,2/17/2030,City Pharma Supplier
+59,Flagyl 400,Sanofi Bangladesh Ltd.,Antibiotic,216.88,252.23,32,6/2/2027,Sample Wholesale Pharmacy
+60,Ciprocin 500,Square Pharmaceuticals PLC,Antibiotic,56.76,70.06,85,1/30/2029,North Bengal Medical Supply
+61,Fungidal 150,Square Pharmaceuticals PLC,Antifungal,126.69,147.09,84,1/30/2029,Central Medicine Store
+62,Flugal 150,Incepta Pharmaceuticals Ltd.,Antifungal,20.76,23.02,186,10/31/2030,Green Cross Medicine Depot
+63,A-Fenac 50,Square Pharmaceuticals PLC,Pain & Inflammation,139.99,154.68,161,3/21/2028,City Pharma Supplier
+64,Voltalin 50,Novartis Bangladesh Ltd.,Pain & Inflammation,87.06,96.5,80,7/5/2030,Sample Wholesale Pharmacy
+65,Naprox 500,Square Pharmaceuticals PLC,Pain & Inflammation,89.67,109.27,79,9/24/2027,North Bengal Medical Supply
+66,Rolac 10,Square Pharmaceuticals PLC,Pain & Inflammation,235.72,271.43,63,3/1/2028,Central Medicine Store
+67,Ecosprin 75,USV Private Limited,Cardiac,170.02,205.02,145,12/23/2028,Green Cross Medicine Depot
+68,Clopid 75,Incepta Pharmaceuticals Ltd.,Cardiac,197.83,240.69,132,11/8/2030,City Pharma Supplier
+69,Atova 10,Square Pharmaceuticals PLC,Cholesterol,145.61,181.13,183,3/2/2029,Sample Wholesale Pharmacy
+70,Rosuva 10,Incepta Pharmaceuticals Ltd.,Cholesterol,103.1,125.98,104,8/13/2030,North Bengal Medical Supply
+71,Bizoran 5/20,Beximco Pharmaceuticals Ltd.,Blood Pressure,184.88,228.37,95,7/4/2029,Central Medicine Store
+72,Amdocal 5,Square Pharmaceuticals PLC,Blood Pressure,25.34,29.58,77,4/29/2029,Green Cross Medicine Depot
+73,Telsar 40,Healthcare Pharmaceuticals Ltd.,Blood Pressure,116.03,137.9,38,5/3/2030,City Pharma Supplier
+74,Telsar 80,Healthcare Pharmaceuticals Ltd.,Blood Pressure,184.5,226.81,9,9/6/2029,Sample Wholesale Pharmacy
+75,Bislol 2.5,Incepta Pharmaceuticals Ltd.,Blood Pressure,220.12,253.53,164,8/11/2027,North Bengal Medical Supply
+76,Bislol 5,Incepta Pharmaceuticals Ltd.,Blood Pressure,60.58,67.8,143,9/11/2030,Central Medicine Store
+77,Comet 500,Square Pharmaceuticals PLC,Diabetes,221.96,256.16,65,10/6/2029,Green Cross Medicine Depot
+78,Comet 850,Square Pharmaceuticals PLC,Diabetes,104.67,120.42,31,5/1/2030,City Pharma Supplier
+79,Glucomet 500,Incepta Pharmaceuticals Ltd.,Diabetes,83.01,98.3,193,5/3/2030,Sample Wholesale Pharmacy
+80,Thyrox 25,Incepta Pharmaceuticals Ltd.,Thyroid,36.67,44.14,153,6/10/2029,North Bengal Medical Supply
+81,Thyrox 50,Incepta Pharmaceuticals Ltd.,Thyroid,17.65,20.41,59,1/1/2029,Central Medicine Store
+82,Mixtard 30,Novo Nordisk Pharma (Pvt.) Ltd.,Diabetes,175.21,210.06,174,3/25/2030,Green Cross Medicine Depot
+83,Rivotril 0.5,Radiant Pharmaceuticals Ltd.,Neurology,224.85,263.98,46,5/2/2027,City Pharma Supplier
+84,Rivotril 2,Radiant Pharmaceuticals Ltd.,Neurology,244.92,300.68,214,5/16/2029,Sample Wholesale Pharmacy
+85,Losectil,Eskayef Pharmaceuticals Ltd.,Gastric,221.78,254.46,43,10/6/2029,North Bengal Medical Supply
+86,Neotack,Square Pharmaceuticals PLC,Gastric,66.32,80.17,121,11/1/2028,Central Medicine Store
+87,Xelium 20,Healthcare Pharmaceuticals Ltd.,Gastric,164.88,200.2,107,8/24/2029,Green Cross Medicine Depot
+88,Avolac,Incepta Pharmaceuticals Ltd.,Digestive,124.65,148.44,244,6/5/2027,City Pharma Supplier
+89,Dulcolax 5,Opella Healthcare,Digestive,88.2,103.19,36,9/26/2029,Sample Wholesale Pharmacy
+90,Lactulax,Square Pharmaceuticals PLC,Digestive,177.41,218.75,49,4/17/2029,North Bengal Medical Supply
+91,Ceevit DS,Square Pharmaceuticals PLC,Vitamin & Mineral,67.52,82.12,127,8/22/2028,Central Medicine Store
+92,Bicozin,Square Pharmaceuticals PLC,Vitamin & Mineral,102.59,118.84,250,7/1/2029,Green Cross Medicine Depot
+93,Bicozin-I,Square Pharmaceuticals PLC,Vitamin & Mineral,128.99,160.15,66,9/5/2030,City Pharma Supplier
+94,Ostocal-D,Square Pharmaceuticals PLC,Vitamin & Mineral,62.6,70.24,168,2/3/2029,Sample Wholesale Pharmacy
+95,Calbo 500,Square Pharmaceuticals PLC,Vitamin & Mineral,42.5,51.8,17,8/28/2029,North Bengal Medical Supply
+96,Napa Suppository,Beximco Pharmaceuticals Ltd.,Pain & Fever,143.76,170.11,147,9/18/2027,Central Medicine Store
+97,Napa Pediatric Drops,Beximco Pharmaceuticals Ltd.,Pain & Fever,193.88,217.16,128,7/15/2027,Green Cross Medicine Depot
+98,Ace Pediatric Drops,Square Pharmaceuticals PLC,Pain & Fever,147.96,165.18,12,9/11/2027,City Pharma Supplier
+99,Sergel Sachet,Healthcare Pharmaceuticals Ltd.,Gastric,40.26,47.62,139,5/9/2030,Sample Wholesale Pharmacy
+100,Acifix Suspension,ACI Limited,Gastric,197.74,242.37,44,8/4/2029,North Bengal Medical Supply
+101,Acifix Tablet,ACI Limited,Gastric,204.17,232.7,166,6/6/2029,Central Medicine Store
+102,Sergel Tablet,Healthcare Pharmaceuticals Ltd.,Gastric,35.2,41.51,52,7/6/2028,Green Cross Medicine Depot
+103,Napa 500 - Stock Batch 2,Beximco Pharmaceuticals Ltd.,Pain & Fever,85.71,101.65,108,6/5/2027,North Bengal Medical Supply
+104,Napa Extra - Stock Batch 2,Beximco Pharmaceuticals Ltd.,Pain & Fever,24.75,29.34,114,11/29/2027,Central Medicine Store
+105,Napa Extend 665 - Stock Batch 2,Beximco Pharmaceuticals Ltd.,Pain & Fever,154.93,190.09,216,4/6/2030,Green Cross Medicine Depot
+106,Napa Rapid - Stock Batch 2,Beximco Pharmaceuticals Ltd.,Pain & Fever,229.96,280.7,186,3/13/2030,City Pharma Supplier
+107,Napa Syrup - Stock Batch 2,Beximco Pharmaceuticals Ltd.,Pain & Fever,170.68,205.74,5,8/8/2029,Sample Wholesale Pharmacy
+108,Napa Suspension - Stock Batch 2,Beximco Pharmaceuticals Ltd.,Pain & Fever,123.63,144.45,170,7/6/2028,North Bengal Medical Supply
+109,Ace 500 - Stock Batch 2,Square Pharmaceuticals PLC,Pain & Fever,44.91,49.97,206,6/16/2029,Central Medicine Store
+110,Ace Plus - Stock Batch 2,Square Pharmaceuticals PLC,Pain & Fever,221.57,254.04,161,11/17/2028,Green Cross Medicine Depot
+111,Ace XR - Stock Batch 2,Square Pharmaceuticals PLC,Pain & Fever,244.67,284.98,203,2/22/2029,City Pharma Supplier
+112,Ace Syrup - Stock Batch 2,Square Pharmaceuticals PLC,Pain & Fever,140.18,165.57,94,7/30/2030,Sample Wholesale Pharmacy
+113,Sergel 20 - Stock Batch 2,Healthcare Pharmaceuticals Ltd.,Gastric,227.02,249.88,28,4/16/2029,North Bengal Medical Supply
+114,Sergel 40 - Stock Batch 2,Healthcare Pharmaceuticals Ltd.,Gastric,91.98,114.72,107,11/8/2028,Central Medicine Store
+115,Acifix 20 - Stock Batch 2,ACI Limited,Gastric,65.04,73.14,211,11/21/2030,Green Cross Medicine Depot
+116,Acifix 40 - Stock Batch 2,ACI Limited,Gastric,222.7,248.77,83,1/19/2028,City Pharma Supplier
+117,Seclo 20 - Stock Batch 2,Square Pharmaceuticals PLC,Gastric,122.42,142.81,83,2/20/2028,Sample Wholesale Pharmacy
+118,Seclo 40 - Stock Batch 2,Square Pharmaceuticals PLC,Gastric,72.14,86.37,226,7/7/2029,North Bengal Medical Supply
+119,Maxpro 20 - Stock Batch 2,Renata PLC,Gastric,37.12,43.76,170,2/23/2028,Central Medicine Store
+120,Maxpro 40 - Stock Batch 2,Renata PLC,Gastric,175.17,211.46,159,4/12/2029,Green Cross Medicine Depot
+121,Pantonix 20 - Stock Batch 2,Incepta Pharmaceuticals Ltd.,Gastric,207.27,253.12,228,4/30/2030,City Pharma Supplier
+122,Pantonix 40 - Stock Batch 2,Incepta Pharmaceuticals Ltd.,Gastric,11.73,13.05,3,5/3/2028,Sample Wholesale Pharmacy
+123,Nexum 20 - Stock Batch 2,Healthcare Pharmaceuticals Ltd.,Gastric,29.21,34.91,53,4/21/2028,North Bengal Medical Supply
+124,Nexum 40 - Stock Batch 2,Healthcare Pharmaceuticals Ltd.,Gastric,130.78,153.95,122,12/10/2028,Central Medicine Store
+125,Losectil 20 - Stock Batch 2,Eskayef Pharmaceuticals Ltd.,Gastric,232.05,284.6,159,1/24/2029,Green Cross Medicine Depot
+126,Exium 20 - Stock Batch 2,Radiant Pharmaceuticals Ltd.,Gastric,165.17,202.29,117,3/28/2028,City Pharma Supplier
+127,Finix 20 - Stock Batch 2,Incepta Pharmaceuticals Ltd.,Gastric,241.69,298.24,41,5/8/2030,Sample Wholesale Pharmacy
+128,Omidon 10 - Stock Batch 2,Square Pharmaceuticals PLC,Digestive,192.1,213.83,90,11/27/2028,North Bengal Medical Supply
+129,Orsaline-N - Stock Batch 2,SMC Enterprise Ltd.,Oral Saline,37.32,45.49,154,7/25/2027,Central Medicine Store
+130,Orsaline Fruity - Stock Batch 2,SMC Enterprise Ltd.,Oral Saline,241.11,286.53,198,12/5/2030,Green Cross Medicine Depot
+131,Zinc-B - Stock Batch 2,Popular Pharmaceuticals PLC,Vitamin & Mineral,60.81,73.89,126,11/29/2030,City Pharma Supplier
+132,Xinc B - Stock Batch 2,Square Pharmaceuticals PLC,Vitamin & Mineral,197.98,223.79,71,9/13/2028,Sample Wholesale Pharmacy
+133,Ceevit 250 - Stock Batch 2,Square Pharmaceuticals PLC,Vitamin & Mineral,8.3,9.29,5,6/12/2027,North Bengal Medical Supply
+134,Ceevit 500 - Stock Batch 2,Square Pharmaceuticals PLC,Vitamin & Mineral,61.2,68.95,135,12/2/2027,Central Medicine Store
+135,Bextram Gold - Stock Batch 2,Beximco Pharmaceuticals Ltd.,Vitamin & Mineral,113.04,131.45,115,8/2/2027,Green Cross Medicine Depot
+136,Bextram Silver - Stock Batch 2,Beximco Pharmaceuticals Ltd.,Vitamin & Mineral,146.72,174.84,84,10/31/2030,City Pharma Supplier
+137,E-Cap 200 - Stock Batch 2,Drug International Ltd.,Vitamin & Mineral,53.72,60.79,105,5/24/2028,Sample Wholesale Pharmacy
+138,E-Cap 400 - Stock Batch 2,Drug International Ltd.,Vitamin & Mineral,47.24,57.13,51,10/22/2030,North Bengal Medical Supply
+139,Coralcal-D - Stock Batch 2,Incepta Pharmaceuticals Ltd.,Vitamin & Mineral,16.84,20.08,180,4/15/2029,Central Medicine Store
+140,Calbo-D - Stock Batch 2,Square Pharmaceuticals PLC,Vitamin & Mineral,211.13,240.05,70,3/5/2029,Green Cross Medicine Depot
+141,Filwel Gold - Stock Batch 2,Square Pharmaceuticals PLC,Vitamin & Mineral,157.6,189.05,95,1/18/2029,City Pharma Supplier
+142,Neuro-B - Stock Batch 2,Beximco Pharmaceuticals Ltd.,Vitamin & Mineral,103.64,120.5,78,1/22/2029,Sample Wholesale Pharmacy
+143,Fexo 120 - Stock Batch 2,Square Pharmaceuticals PLC,Allergy,43.22,49.16,198,6/25/2027,North Bengal Medical Supply
+144,Fexo 180 - Stock Batch 2,Square Pharmaceuticals PLC,Allergy,141.82,159.62,64,4/30/2028,Central Medicine Store
+145,Alatrol 10 - Stock Batch 2,Square Pharmaceuticals PLC,Allergy,168.27,196.4,27,9/26/2030,Green Cross Medicine Depot
+146,Histacin - Stock Batch 2,Renata PLC,Allergy,100.84,116.74,128,3/10/2028,City Pharma Supplier
+147,Bilastin 20 - Stock Batch 2,Incepta Pharmaceuticals Ltd.,Allergy,42.69,48.83,40,7/8/2030,Sample Wholesale Pharmacy
+148,Monas 10 - Stock Batch 2,ACME Laboratories Ltd.,Respiratory,209.83,259.31,48,8/19/2028,North Bengal Medical Supply
+149,Monas 5 - Stock Batch 2,ACME Laboratories Ltd.,Respiratory,71.92,82.65,4,9/14/2030,Central Medicine Store
+150,Montene 10 - Stock Batch 2,Healthcare Pharmaceuticals Ltd.,Respiratory,104.1,115.69,113,2/13/2030,Green Cross Medicine Depot
+151,Telfast 120 - Stock Batch 2,Sanofi Bangladesh Ltd.,Allergy,222.64,258.38,81,1/23/2028,City Pharma Supplier
+152,Telfast 180 - Stock Batch 2,Sanofi Bangladesh Ltd.,Allergy,69.27,80.66,229,8/24/2028,Sample Wholesale Pharmacy
+153,Azithrocin 500 - Stock Batch 2,Square Pharmaceuticals PLC,Antibiotic,6.17,7.22,56,9/5/2030,North Bengal Medical Supply
+154,Zimax 500 - Stock Batch 2,Square Pharmaceuticals PLC,Antibiotic,202.73,227.5,240,6/20/2030,Central Medicine Store
+155,Zimax 250 - Stock Batch 2,Square Pharmaceuticals PLC,Antibiotic,36.61,42.53,219,9/3/2027,Green Cross Medicine Depot
+156,Cef-3 200 - Stock Batch 2,Square Pharmaceuticals PLC,Antibiotic,102.34,126.65,245,5/23/2027,City Pharma Supplier
+157,Cef-3 400 - Stock Batch 2,Square Pharmaceuticals PLC,Antibiotic,148.53,179.48,118,10/28/2028,Sample Wholesale Pharmacy
+158,Cefix 200 - Stock Batch 2,Incepta Pharmaceuticals Ltd.,Antibiotic,67.91,84.33,53,11/30/2030,North Bengal Medical Supply
+159,Amoxil 500 - Stock Batch 2,GlaxoSmithKline Bangladesh Ltd.,Antibiotic,161.25,182.82,38,6/1/2028,Central Medicine Store
+160,Moxaclav 625 - Stock Batch 2,Incepta Pharmaceuticals Ltd.,Antibiotic,121.56,151.12,148,9/29/2027,Green Cross Medicine Depot
+161,Flagyl 400 - Stock Batch 2,Sanofi Bangladesh Ltd.,Antibiotic,150.16,185.82,3,4/1/2029,City Pharma Supplier
+162,Ciprocin 500 - Stock Batch 2,Square Pharmaceuticals PLC,Antibiotic,187.5,224.04,163,5/8/2030,Sample Wholesale Pharmacy
+163,Fungidal 150 - Stock Batch 2,Square Pharmaceuticals PLC,Antifungal,65.75,77.1,210,2/7/2028,North Bengal Medical Supply
+164,Flugal 150 - Stock Batch 2,Incepta Pharmaceuticals Ltd.,Antifungal,236.49,264.92,80,10/10/2028,Central Medicine Store
+165,A-Fenac 50 - Stock Batch 2,Square Pharmaceuticals PLC,Pain & Inflammation,227,278.36,202,2/24/2029,Green Cross Medicine Depot
+166,Voltalin 50 - Stock Batch 2,Novartis Bangladesh Ltd.,Pain & Inflammation,148.54,179.88,172,10/1/2029,City Pharma Supplier
+167,Naprox 500 - Stock Batch 2,Square Pharmaceuticals PLC,Pain & Inflammation,202.52,232.64,100,11/22/2029,Sample Wholesale Pharmacy
+168,Rolac 10 - Stock Batch 2,Square Pharmaceuticals PLC,Pain & Inflammation,94.8,115.11,79,12/3/2030,North Bengal Medical Supply
+169,Ecosprin 75 - Stock Batch 2,USV Private Limited,Cardiac,110.3,121.93,114,3/27/2030,Central Medicine Store
+170,Clopid 75 - Stock Batch 2,Incepta Pharmaceuticals Ltd.,Cardiac,223.89,268.23,153,5/14/2029,Green Cross Medicine Depot
+171,Atova 10 - Stock Batch 2,Square Pharmaceuticals PLC,Cholesterol,153.62,174.53,38,9/16/2028,City Pharma Supplier
+172,Rosuva 10 - Stock Batch 2,Incepta Pharmaceuticals Ltd.,Cholesterol,51.16,60.78,72,9/19/2027,Sample Wholesale Pharmacy
+173,Bizoran 5/20 - Stock Batch 2,Beximco Pharmaceuticals Ltd.,Blood Pressure,146.63,170.28,12,11/7/2028,North Bengal Medical Supply
+174,Amdocal 5 - Stock Batch 2,Square Pharmaceuticals PLC,Blood Pressure,114.34,130.27,96,2/16/2029,Central Medicine Store
+175,Telsar 40 - Stock Batch 2,Healthcare Pharmaceuticals Ltd.,Blood Pressure,146.07,164.36,43,8/20/2029,Green Cross Medicine Depot
+176,Telsar 80 - Stock Batch 2,Healthcare Pharmaceuticals Ltd.,Blood Pressure,110.75,127.48,114,11/28/2029,City Pharma Supplier
+177,Bislol 2.5 - Stock Batch 2,Incepta Pharmaceuticals Ltd.,Blood Pressure,186.17,226.51,40,6/15/2027,Sample Wholesale Pharmacy
+178,Bislol 5 - Stock Batch 2,Incepta Pharmaceuticals Ltd.,Blood Pressure,173.22,191.88,65,8/22/2027,North Bengal Medical Supply
+179,Comet 500 - Stock Batch 2,Square Pharmaceuticals PLC,Diabetes,162.84,185.89,22,10/28/2028,Central Medicine Store
+180,Comet 850 - Stock Batch 2,Square Pharmaceuticals PLC,Diabetes,17.28,20.99,79,6/3/2030,Green Cross Medicine Depot
+181,Glucomet 500 - Stock Batch 2,Incepta Pharmaceuticals Ltd.,Diabetes,148.55,176.92,47,1/27/2028,City Pharma Supplier
+182,Thyrox 25 - Stock Batch 2,Incepta Pharmaceuticals Ltd.,Thyroid,189.77,218.83,162,2/8/2028,Sample Wholesale Pharmacy
+183,Thyrox 50 - Stock Batch 2,Incepta Pharmaceuticals Ltd.,Thyroid,221.28,244.04,15,7/5/2027,North Bengal Medical Supply
+184,Mixtard 30 - Stock Batch 2,Novo Nordisk Pharma (Pvt.) Ltd.,Diabetes,94.65,111.38,237,5/6/2027,Central Medicine Store
+185,Rivotril 0.5 - Stock Batch 2,Radiant Pharmaceuticals Ltd.,Neurology,64.27,75.59,148,10/3/2027,Green Cross Medicine Depot
+186,Rivotril 2 - Stock Batch 2,Radiant Pharmaceuticals Ltd.,Neurology,26.33,29.32,27,7/8/2029,City Pharma Supplier
+187,Losectil - Stock Batch 2,Eskayef Pharmaceuticals Ltd.,Gastric,52.49,65.11,142,8/20/2028,Sample Wholesale Pharmacy
+188,Neotack - Stock Batch 2,Square Pharmaceuticals PLC,Gastric,198.42,245.33,174,7/1/2028,North Bengal Medical Supply
+189,Xelium 20 - Stock Batch 2,Healthcare Pharmaceuticals Ltd.,Gastric,138.56,164.67,148,8/16/2027,Central Medicine Store
+190,Avolac - Stock Batch 2,Incepta Pharmaceuticals Ltd.,Digestive,87.84,107.42,109,4/22/2029,Green Cross Medicine Depot
+191,Dulcolax 5 - Stock Batch 2,Opella Healthcare,Digestive,95.56,107.12,232,3/30/2028,City Pharma Supplier
+192,Lactulax - Stock Batch 2,Square Pharmaceuticals PLC,Digestive,232.26,281.74,189,11/12/2028,Sample Wholesale Pharmacy
+193,Ceevit DS - Stock Batch 2,Square Pharmaceuticals PLC,Vitamin & Mineral,230.23,264.9,118,10/9/2030,North Bengal Medical Supply
+194,Bicozin - Stock Batch 2,Square Pharmaceuticals PLC,Vitamin & Mineral,100.45,124.93,128,3/18/2028,Central Medicine Store
+195,Bicozin-I - Stock Batch 2,Square Pharmaceuticals PLC,Vitamin & Mineral,183.51,217.22,156,8/29/2028,Green Cross Medicine Depot
+196,Ostocal-D - Stock Batch 2,Square Pharmaceuticals PLC,Vitamin & Mineral,29.78,33.27,219,12/31/2028,City Pharma Supplier
+197,Calbo 500 - Stock Batch 2,Square Pharmaceuticals PLC,Vitamin & Mineral,98,119.69,59,7/3/2027,Sample Wholesale Pharmacy
+198,Napa Suppository - Stock Batch 2,Beximco Pharmaceuticals Ltd.,Pain & Fever,119.68,138.2,175,7/25/2027,North Bengal Medical Supply
+199,Napa Pediatric Drops - Stock Batch 2,Beximco Pharmaceuticals Ltd.,Pain & Fever,196.29,228.52,187,7/26/2027,Central Medicine Store
+200,Ace Pediatric Drops - Stock Batch 2,Square Pharmaceuticals PLC,Pain & Fever,238.24,269.71,45,1/12/2028,Green Cross Medicine Depot
+201,Sergel Sachet - Stock Batch 2,Healthcare Pharmaceuticals Ltd.,Gastric,46.21,51.62,247,2/13/2030,City Pharma Supplier
+202,Acifix Suspension - Stock Batch 2,ACI Limited,Gastric,12.01,13.72,100,9/22/2030,Sample Wholesale Pharmacy
+203,Acifix Tablet - Stock Batch 2,ACI Limited,Gastric,179.73,205.89,80,10/6/2029,North Bengal Medical Supply
+204,Sergel Tablet - Stock Batch 2,Healthcare Pharmaceuticals Ltd.,Gastric,77.9,88.28,77,5/15/2028,Central Medicine Store
+205,Napa 500 - Stock Batch 3,Beximco Pharmaceuticals Ltd.,Pain & Fever,66.46,73.68,228,7/7/2027,Sample Wholesale Pharmacy
+206,Napa Extra - Stock Batch 3,Beximco Pharmaceuticals Ltd.,Pain & Fever,27.33,33.42,190,8/28/2029,North Bengal Medical Supply
+207,Napa Extend 665 - Stock Batch 3,Beximco Pharmaceuticals Ltd.,Pain & Fever,197.28,237.58,145,4/6/2030,Central Medicine Store
+208,Napa Rapid - Stock Batch 3,Beximco Pharmaceuticals Ltd.,Pain & Fever,162.4,185.09,161,12/14/2028,Green Cross Medicine Depot
+209,Napa Syrup - Stock Batch 3,Beximco Pharmaceuticals Ltd.,Pain & Fever,34.38,37.97,76,12/21/2028,City Pharma Supplier
+210,Napa Suspension - Stock Batch 3,Beximco Pharmaceuticals Ltd.,Pain & Fever,82.43,91.33,173,12/30/2027,Sample Wholesale Pharmacy
+211,Ace 500 - Stock Batch 3,Square Pharmaceuticals PLC,Pain & Fever,175.23,217.16,58,2/4/2028,North Bengal Medical Supply
+212,Ace Plus - Stock Batch 3,Square Pharmaceuticals PLC,Pain & Fever,205.32,253.17,161,4/25/2030,Central Medicine Store
+213,Ace XR - Stock Batch 3,Square Pharmaceuticals PLC,Pain & Fever,78.77,91.27,167,9/3/2030,Green Cross Medicine Depot
+214,Ace Syrup - Stock Batch 3,Square Pharmaceuticals PLC,Pain & Fever,58.91,72.93,103,12/22/2028,City Pharma Supplier
+215,Sergel 20 - Stock Batch 3,Healthcare Pharmaceuticals Ltd.,Gastric,70.87,82.48,137,9/13/2027,Sample Wholesale Pharmacy
+216,Sergel 40 - Stock Batch 3,Healthcare Pharmaceuticals Ltd.,Gastric,90.93,102.79,230,12/14/2029,North Bengal Medical Supply
+217,Acifix 20 - Stock Batch 3,ACI Limited,Gastric,242.9,298.28,74,2/5/2028,Central Medicine Store
+218,Acifix 40 - Stock Batch 3,ACI Limited,Gastric,52.25,61.97,59,5/26/2028,Green Cross Medicine Depot
+219,Seclo 20 - Stock Batch 3,Square Pharmaceuticals PLC,Gastric,101.14,112.1,15,1/1/2030,City Pharma Supplier
+220,Seclo 40 - Stock Batch 3,Square Pharmaceuticals PLC,Gastric,204.94,250.85,206,6/3/2029,Sample Wholesale Pharmacy
+221,Maxpro 20 - Stock Batch 3,Renata PLC,Gastric,126.01,156.19,183,12/9/2029,North Bengal Medical Supply
+222,Maxpro 40 - Stock Batch 3,Renata PLC,Gastric,111.2,130.31,216,12/1/2028,Central Medicine Store
+223,Pantonix 20 - Stock Batch 3,Incepta Pharmaceuticals Ltd.,Gastric,216.84,246.42,115,1/25/2030,Green Cross Medicine Depot
+224,Pantonix 40 - Stock Batch 3,Incepta Pharmaceuticals Ltd.,Gastric,242.93,288.17,40,3/7/2029,City Pharma Supplier
+225,Nexum 20 - Stock Batch 3,Healthcare Pharmaceuticals Ltd.,Gastric,244.09,284.47,213,8/27/2028,Sample Wholesale Pharmacy
+226,Nexum 40 - Stock Batch 3,Healthcare Pharmaceuticals Ltd.,Gastric,189.28,219.19,60,9/29/2030,North Bengal Medical Supply
+227,Losectil 20 - Stock Batch 3,Eskayef Pharmaceuticals Ltd.,Gastric,168.93,199.91,93,11/24/2027,Central Medicine Store
+228,Exium 20 - Stock Batch 3,Radiant Pharmaceuticals Ltd.,Gastric,185.8,227.38,186,10/27/2029,Green Cross Medicine Depot
+229,Finix 20 - Stock Batch 3,Incepta Pharmaceuticals Ltd.,Gastric,102.53,113.21,4,11/8/2030,City Pharma Supplier
+230,Omidon 10 - Stock Batch 3,Square Pharmaceuticals PLC,Digestive,225.53,250.99,117,9/1/2027,Sample Wholesale Pharmacy
+231,Orsaline-N - Stock Batch 3,SMC Enterprise Ltd.,Oral Saline,155.09,178.54,112,6/9/2029,North Bengal Medical Supply
+232,Orsaline Fruity - Stock Batch 3,SMC Enterprise Ltd.,Oral Saline,188.52,218.52,23,1/2/2029,Central Medicine Store
+233,Zinc-B - Stock Batch 3,Popular Pharmaceuticals PLC,Vitamin & Mineral,131.73,164.2,20,7/31/2030,Green Cross Medicine Depot
+234,Xinc B - Stock Batch 3,Square Pharmaceuticals PLC,Vitamin & Mineral,229.08,286.29,210,3/17/2028,City Pharma Supplier
+235,Ceevit 250 - Stock Batch 3,Square Pharmaceuticals PLC,Vitamin & Mineral,165.69,193.62,217,5/19/2028,Sample Wholesale Pharmacy
+236,Ceevit 500 - Stock Batch 3,Square Pharmaceuticals PLC,Vitamin & Mineral,229.38,260.06,69,3/18/2029,North Bengal Medical Supply
+237,Bextram Gold - Stock Batch 3,Beximco Pharmaceuticals Ltd.,Vitamin & Mineral,98.06,116.81,135,1/27/2030,Central Medicine Store
+238,Bextram Silver - Stock Batch 3,Beximco Pharmaceuticals Ltd.,Vitamin & Mineral,88.88,108.89,23,8/7/2030,Green Cross Medicine Depot
+239,E-Cap 200 - Stock Batch 3,Drug International Ltd.,Vitamin & Mineral,51.72,61.66,32,5/29/2029,City Pharma Supplier
+240,E-Cap 400 - Stock Batch 3,Drug International Ltd.,Vitamin & Mineral,113.63,141.07,59,12/20/2029,Sample Wholesale Pharmacy
+241,Coralcal-D - Stock Batch 3,Incepta Pharmaceuticals Ltd.,Vitamin & Mineral,137.89,171.21,203,7/18/2030,North Bengal Medical Supply
+242,Calbo-D - Stock Batch 3,Square Pharmaceuticals PLC,Vitamin & Mineral,223.93,268.07,40,5/27/2028,Central Medicine Store
+243,Filwel Gold - Stock Batch 3,Square Pharmaceuticals PLC,Vitamin & Mineral,122,149.68,188,1/16/2030,Green Cross Medicine Depot
+244,Neuro-B - Stock Batch 3,Beximco Pharmaceuticals Ltd.,Vitamin & Mineral,132.05,155.39,150,4/5/2028,City Pharma Supplier
+245,Fexo 120 - Stock Batch 3,Square Pharmaceuticals PLC,Allergy,58.04,65.64,36,7/22/2029,Sample Wholesale Pharmacy
+246,Fexo 180 - Stock Batch 3,Square Pharmaceuticals PLC,Allergy,39.33,48.22,17,3/2/2028,North Bengal Medical Supply
+247,Alatrol 10 - Stock Batch 3,Square Pharmaceuticals PLC,Allergy,52.58,60.2,45,8/22/2028,Central Medicine Store
+248,Histacin - Stock Batch 3,Renata PLC,Allergy,205.97,250.52,177,4/20/2029,Green Cross Medicine Depot
+249,Bilastin 20 - Stock Batch 3,Incepta Pharmaceuticals Ltd.,Allergy,148.09,168.79,125,11/5/2028,City Pharma Supplier
+250,Monas 10 - Stock Batch 3,ACME Laboratories Ltd.,Respiratory,189.75,212.57,147,9/21/2027,Sample Wholesale Pharmacy
+251,Monas 5 - Stock Batch 3,ACME Laboratories Ltd.,Respiratory,177.4,215.64,12,3/21/2030,North Bengal Medical Supply
+252,Montene 10 - Stock Batch 3,Healthcare Pharmaceuticals Ltd.,Respiratory,213.83,252.64,236,12/12/2028,Central Medicine Store
+253,Telfast 120 - Stock Batch 3,Sanofi Bangladesh Ltd.,Allergy,216.67,249.77,40,12/23/2029,Green Cross Medicine Depot
+254,Telfast 180 - Stock Batch 3,Sanofi Bangladesh Ltd.,Allergy,188.23,214.16,8,5/23/2030,City Pharma Supplier
+255,Azithrocin 500 - Stock Batch 3,Square Pharmaceuticals PLC,Antibiotic,242.72,277.05,214,6/14/2029,Sample Wholesale Pharmacy
+256,Zimax 500 - Stock Batch 3,Square Pharmaceuticals PLC,Antibiotic,200.88,240.78,151,3/26/2029,North Bengal Medical Supply
+257,Zimax 250 - Stock Batch 3,Square Pharmaceuticals PLC,Antibiotic,85.67,97.94,41,4/13/2030,Central Medicine Store
+258,Cef-3 200 - Stock Batch 3,Square Pharmaceuticals PLC,Antibiotic,92.7,107.35,69,10/11/2027,Green Cross Medicine Depot
+259,Cef-3 400 - Stock Batch 3,Square Pharmaceuticals PLC,Antibiotic,21.84,25.58,208,5/23/2027,City Pharma Supplier
+260,Cefix 200 - Stock Batch 3,Incepta Pharmaceuticals Ltd.,Antibiotic,217.59,251.92,223,10/24/2029,Sample Wholesale Pharmacy
+261,Amoxil 500 - Stock Batch 3,GlaxoSmithKline Bangladesh Ltd.,Antibiotic,176.33,212.38,114,5/23/2030,North Bengal Medical Supply
+262,Moxaclav 625 - Stock Batch 3,Incepta Pharmaceuticals Ltd.,Antibiotic,172.48,197.13,152,11/19/2028,Central Medicine Store
+263,Flagyl 400 - Stock Batch 3,Sanofi Bangladesh Ltd.,Antibiotic,8.99,11.03,203,9/22/2029,Green Cross Medicine Depot
+264,Ciprocin 500 - Stock Batch 3,Square Pharmaceuticals PLC,Antibiotic,74.54,85.16,30,9/4/2027,City Pharma Supplier
+265,Fungidal 150 - Stock Batch 3,Square Pharmaceuticals PLC,Antifungal,172.43,198.57,69,4/24/2029,Sample Wholesale Pharmacy
+266,Flugal 150 - Stock Batch 3,Incepta Pharmaceuticals Ltd.,Antifungal,152.35,176.34,36,8/4/2029,North Bengal Medical Supply
+267,A-Fenac 50 - Stock Batch 3,Square Pharmaceuticals PLC,Pain & Inflammation,221.34,273.66,72,12/4/2028,Central Medicine Store
+268,Voltalin 50 - Stock Batch 3,Novartis Bangladesh Ltd.,Pain & Inflammation,229.25,279.71,156,7/29/2029,Green Cross Medicine Depot
+269,Naprox 500 - Stock Batch 3,Square Pharmaceuticals PLC,Pain & Inflammation,149.93,174.73,135,1/28/2029,City Pharma Supplier
+270,Rolac 10 - Stock Batch 3,Square Pharmaceuticals PLC,Pain & Inflammation,94.39,106.88,169,9/6/2029,Sample Wholesale Pharmacy
+271,Ecosprin 75 - Stock Batch 3,USV Private Limited,Cardiac,21.87,24.39,232,1/28/2028,North Bengal Medical Supply
+272,Clopid 75 - Stock Batch 3,Incepta Pharmaceuticals Ltd.,Cardiac,44.91,49.86,158,5/12/2030,Central Medicine Store
+273,Atova 10 - Stock Batch 3,Square Pharmaceuticals PLC,Cholesterol,243.43,297.87,103,3/7/2030,Green Cross Medicine Depot
+274,Rosuva 10 - Stock Batch 3,Incepta Pharmaceuticals Ltd.,Cholesterol,31.4,35.26,199,9/30/2027,City Pharma Supplier
+275,Bizoran 5/20 - Stock Batch 3,Beximco Pharmaceuticals Ltd.,Blood Pressure,163.38,188.82,23,8/7/2027,Sample Wholesale Pharmacy
+276,Amdocal 5 - Stock Batch 3,Square Pharmaceuticals PLC,Blood Pressure,117.57,138.14,199,1/4/2030,North Bengal Medical Supply
+277,Telsar 40 - Stock Batch 3,Healthcare Pharmaceuticals Ltd.,Blood Pressure,202.8,253.38,47,7/20/2030,Central Medicine Store
+278,Telsar 80 - Stock Batch 3,Healthcare Pharmaceuticals Ltd.,Blood Pressure,52.86,62.93,128,11/21/2030,Green Cross Medicine Depot
+279,Bislol 2.5 - Stock Batch 3,Incepta Pharmaceuticals Ltd.,Blood Pressure,78.51,89.45,177,7/10/2030,City Pharma Supplier
+280,Bislol 5 - Stock Batch 3,Incepta Pharmaceuticals Ltd.,Blood Pressure,221.13,263.73,12,2/17/2029,Sample Wholesale Pharmacy
+281,Comet 500 - Stock Batch 3,Square Pharmaceuticals PLC,Diabetes,209.16,252.54,191,12/3/2027,North Bengal Medical Supply
+282,Comet 850 - Stock Batch 3,Square Pharmaceuticals PLC,Diabetes,225.05,263.24,24,7/23/2030,Central Medicine Store
+283,Glucomet 500 - Stock Batch 3,Incepta Pharmaceuticals Ltd.,Diabetes,8.5,9.51,189,6/1/2029,Green Cross Medicine Depot
+284,Thyrox 25 - Stock Batch 3,Incepta Pharmaceuticals Ltd.,Thyroid,8.4,9.48,76,3/16/2030,City Pharma Supplier
+285,Thyrox 50 - Stock Batch 3,Incepta Pharmaceuticals Ltd.,Thyroid,151.66,186.13,247,10/21/2028,Sample Wholesale Pharmacy
+286,Mixtard 30 - Stock Batch 3,Novo Nordisk Pharma (Pvt.) Ltd.,Diabetes,247.94,279.03,171,6/30/2028,North Bengal Medical Supply
+287,Rivotril 0.5 - Stock Batch 3,Radiant Pharmaceuticals Ltd.,Neurology,163.1,196.85,118,1/9/2030,Central Medicine Store
+288,Rivotril 2 - Stock Batch 3,Radiant Pharmaceuticals Ltd.,Neurology,163.94,185.44,16,12/9/2029,Green Cross Medicine Depot
+289,Losectil - Stock Batch 3,Eskayef Pharmaceuticals Ltd.,Gastric,151.98,187.93,172,2/12/2028,City Pharma Supplier
+290,Neotack - Stock Batch 3,Square Pharmaceuticals PLC,Gastric,39.84,44.84,4,1/26/2028,Sample Wholesale Pharmacy
+291,Xelium 20 - Stock Batch 3,Healthcare Pharmaceuticals Ltd.,Gastric,102.53,116.51,43,3/7/2029,North Bengal Medical Supply
+292,Avolac - Stock Batch 3,Incepta Pharmaceuticals Ltd.,Digestive,124.56,155.01,209,4/1/2029,Central Medicine Store
+293,Dulcolax 5 - Stock Batch 3,Opella Healthcare,Digestive,101.11,124.96,103,7/29/2029,Green Cross Medicine Depot
+294,Lactulax - Stock Batch 3,Square Pharmaceuticals PLC,Digestive,245.04,300.76,44,4/3/2028,City Pharma Supplier
+295,Ceevit DS - Stock Batch 3,Square Pharmaceuticals PLC,Vitamin & Mineral,208.37,257.82,201,7/20/2029,Sample Wholesale Pharmacy
+296,Bicozin - Stock Batch 3,Square Pharmaceuticals PLC,Vitamin & Mineral,121.36,141.99,105,4/15/2030,North Bengal Medical Supply
+297,Bicozin-I - Stock Batch 3,Square Pharmaceuticals PLC,Vitamin & Mineral,61.15,70.61,91,5/27/2030,Central Medicine Store
+298,Ostocal-D - Stock Batch 3,Square Pharmaceuticals PLC,Vitamin & Mineral,155.15,188.16,59,4/25/2030,Green Cross Medicine Depot
+299,Calbo 500 - Stock Batch 3,Square Pharmaceuticals PLC,Vitamin & Mineral,37.07,44.14,11,7/9/2028,City Pharma Supplier
+300,Napa Suppository - Stock Batch 3,Beximco Pharmaceuticals Ltd.,Pain & Fever,149.3,185.84,149,8/19/2027,Sample Wholesale Pharmacy
+301,Napa Pediatric Drops - Stock Batch 3,Beximco Pharmaceuticals Ltd.,Pain & Fever,100.2,118.04,134,10/11/2027,North Bengal Medical Supply
+302,Ace Pediatric Drops - Stock Batch 3,Square Pharmaceuticals PLC,Pain & Fever,153.99,180.29,120,7/7/2029,Central Medicine Store
+303,Sergel Sachet - Stock Batch 3,Healthcare Pharmaceuticals Ltd.,Gastric,11.67,13.73,190,8/5/2027,Green Cross Medicine Depot
+304,Acifix Suspension - Stock Batch 3,ACI Limited,Gastric,160.83,181.52,151,9/13/2027,City Pharma Supplier
+305,Acifix Tablet - Stock Batch 3,ACI Limited,Gastric,18.79,22.22,32,11/18/2027,Sample Wholesale Pharmacy
+306,Sergel Tablet - Stock Batch 3,Healthcare Pharmaceuticals Ltd.,Gastric,73,87.86,226,7/22/2028,North Bengal Medical Supply
+307,Napa 500 - Stock Batch 4,Beximco Pharmaceuticals Ltd.,Pain & Fever,112.57,138.24,195,10/9/2030,City Pharma Supplier
+308,Napa Extra - Stock Batch 4,Beximco Pharmaceuticals Ltd.,Pain & Fever,39.61,47.93,100,7/18/2028,Sample Wholesale Pharmacy
+309,Napa Extend 665 - Stock Batch 4,Beximco Pharmaceuticals Ltd.,Pain & Fever,171.83,201.19,0,7/6/2029,North Bengal Medical Supply
+310,Napa Rapid - Stock Batch 4,Beximco Pharmaceuticals Ltd.,Pain & Fever,150.01,166.48,111,11/20/2029,Central Medicine Store
+311,Napa Syrup - Stock Batch 4,Beximco Pharmaceuticals Ltd.,Pain & Fever,212.56,265,182,2/16/2028,Green Cross Medicine Depot
+312,Napa Suspension - Stock Batch 4,Beximco Pharmaceuticals Ltd.,Pain & Fever,198.58,226.53,150,11/5/2027,City Pharma Supplier
+313,Ace 500 - Stock Batch 4,Square Pharmaceuticals PLC,Pain & Fever,121.19,147.82,87,8/6/2027,Sample Wholesale Pharmacy
+314,Ace Plus - Stock Batch 4,Square Pharmaceuticals PLC,Pain & Fever,52.76,63.64,247,5/24/2027,North Bengal Medical Supply
+315,Ace XR - Stock Batch 4,Square Pharmaceuticals PLC,Pain & Fever,241.6,269.88,169,11/13/2030,Central Medicine Store
+316,Ace Syrup - Stock Batch 4,Square Pharmaceuticals PLC,Pain & Fever,83.44,104.04,185,10/14/2027,Green Cross Medicine Depot
+317,Sergel 20 - Stock Batch 4,Healthcare Pharmaceuticals Ltd.,Gastric,89.18,99.1,76,11/26/2029,City Pharma Supplier
+318,Sergel 40 - Stock Batch 4,Healthcare Pharmaceuticals Ltd.,Gastric,193.07,223.07,107,8/20/2029,Sample Wholesale Pharmacy
+319,Acifix 20 - Stock Batch 4,ACI Limited,Gastric,94.69,113.51,49,9/7/2027,North Bengal Medical Supply
+320,Acifix 40 - Stock Batch 4,ACI Limited,Gastric,12.99,14.55,35,11/22/2029,Central Medicine Store
+321,Seclo 20 - Stock Batch 4,Square Pharmaceuticals PLC,Gastric,163.11,202.36,175,6/12/2027,Green Cross Medicine Depot
+322,Seclo 40 - Stock Batch 4,Square Pharmaceuticals PLC,Gastric,215.99,254.67,132,12/4/2027,City Pharma Supplier
+323,Maxpro 20 - Stock Batch 4,Renata PLC,Gastric,189.97,233,96,3/19/2029,Sample Wholesale Pharmacy
+324,Maxpro 40 - Stock Batch 4,Renata PLC,Gastric,80.19,89.45,182,12/27/2029,North Bengal Medical Supply
+325,Pantonix 20 - Stock Batch 4,Incepta Pharmaceuticals Ltd.,Gastric,181.15,199.3,49,8/25/2028,Central Medicine Store
+326,Pantonix 40 - Stock Batch 4,Incepta Pharmaceuticals Ltd.,Gastric,220.39,250.83,159,10/2/2030,Green Cross Medicine Depot
+327,Nexum 20 - Stock Batch 4,Healthcare Pharmaceuticals Ltd.,Gastric,217.6,250.58,137,10/1/2028,City Pharma Supplier
+328,Nexum 40 - Stock Batch 4,Healthcare Pharmaceuticals Ltd.,Gastric,148.15,173.04,40,7/12/2028,Sample Wholesale Pharmacy
+329,Losectil 20 - Stock Batch 4,Eskayef Pharmaceuticals Ltd.,Gastric,67.51,77.92,46,10/6/2027,North Bengal Medical Supply
+330,Exium 20 - Stock Batch 4,Radiant Pharmaceuticals Ltd.,Gastric,248.23,285.22,70,12/29/2029,Central Medicine Store
+331,Finix 20 - Stock Batch 4,Incepta Pharmaceuticals Ltd.,Gastric,170.34,187.48,239,11/18/2028,Green Cross Medicine Depot
+332,Omidon 10 - Stock Batch 4,Square Pharmaceuticals PLC,Digestive,215.38,264.13,20,8/12/2030,City Pharma Supplier
+333,Orsaline-N - Stock Batch 4,SMC Enterprise Ltd.,Oral Saline,182.26,220.76,18,8/12/2030,Sample Wholesale Pharmacy
+334,Orsaline Fruity - Stock Batch 4,SMC Enterprise Ltd.,Oral Saline,140.43,159.69,85,10/24/2028,North Bengal Medical Supply
+335,Zinc-B - Stock Batch 4,Popular Pharmaceuticals PLC,Vitamin & Mineral,29.68,36.72,162,5/17/2028,Central Medicine Store
+336,Xinc B - Stock Batch 4,Square Pharmaceuticals PLC,Vitamin & Mineral,126.88,144.31,246,2/21/2029,Green Cross Medicine Depot
+337,Ceevit 250 - Stock Batch 4,Square Pharmaceuticals PLC,Vitamin & Mineral,218.5,268.94,88,7/18/2030,City Pharma Supplier
+338,Ceevit 500 - Stock Batch 4,Square Pharmaceuticals PLC,Vitamin & Mineral,156.54,173.02,109,12/8/2028,Sample Wholesale Pharmacy
+339,Bextram Gold - Stock Batch 4,Beximco Pharmaceuticals Ltd.,Vitamin & Mineral,214.32,257.11,167,8/17/2028,North Bengal Medical Supply
+340,Bextram Silver - Stock Batch 4,Beximco Pharmaceuticals Ltd.,Vitamin & Mineral,20.07,23.97,107,5/11/2030,Central Medicine Store
+341,E-Cap 200 - Stock Batch 4,Drug International Ltd.,Vitamin & Mineral,131.53,152.7,198,12/9/2029,Green Cross Medicine Depot
+342,E-Cap 400 - Stock Batch 4,Drug International Ltd.,Vitamin & Mineral,102.75,116.85,24,4/25/2028,City Pharma Supplier
+343,Coralcal-D - Stock Batch 4,Incepta Pharmaceuticals Ltd.,Vitamin & Mineral,43.56,54.43,188,12/2/2029,Sample Wholesale Pharmacy
+344,Calbo-D - Stock Batch 4,Square Pharmaceuticals PLC,Vitamin & Mineral,158.38,194.14,250,1/25/2028,North Bengal Medical Supply
+345,Filwel Gold - Stock Batch 4,Square Pharmaceuticals PLC,Vitamin & Mineral,37.55,42.65,234,12/28/2027,Central Medicine Store
+346,Neuro-B - Stock Batch 4,Beximco Pharmaceuticals Ltd.,Vitamin & Mineral,134.99,153.28,47,3/25/2028,Green Cross Medicine Depot
+347,Fexo 120 - Stock Batch 4,Square Pharmaceuticals PLC,Allergy,153.76,181.38,213,12/17/2028,City Pharma Supplier
+348,Fexo 180 - Stock Batch 4,Square Pharmaceuticals PLC,Allergy,35.56,43.61,142,10/11/2028,Sample Wholesale Pharmacy
+349,Alatrol 10 - Stock Batch 4,Square Pharmaceuticals PLC,Allergy,167.82,205.32,3,5/3/2027,North Bengal Medical Supply
+350,Histacin - Stock Batch 4,Renata PLC,Allergy,185.24,217.21,163,6/25/2030,Central Medicine Store
+351,Bilastin 20 - Stock Batch 4,Incepta Pharmaceuticals Ltd.,Allergy,118.48,143.2,65,2/9/2028,Green Cross Medicine Depot
+352,Monas 10 - Stock Batch 4,ACME Laboratories Ltd.,Respiratory,235.88,270.09,243,7/7/2027,City Pharma Supplier
+353,Monas 5 - Stock Batch 4,ACME Laboratories Ltd.,Respiratory,30.33,33.53,21,12/16/2027,Sample Wholesale Pharmacy
+354,Montene 10 - Stock Batch 4,Healthcare Pharmaceuticals Ltd.,Respiratory,13.92,15.41,203,8/11/2027,North Bengal Medical Supply
+355,Telfast 120 - Stock Batch 4,Sanofi Bangladesh Ltd.,Allergy,181.62,203.91,57,6/2/2029,Central Medicine Store
+356,Telfast 180 - Stock Batch 4,Sanofi Bangladesh Ltd.,Allergy,223.21,252.5,181,10/24/2029,Green Cross Medicine Depot
+357,Azithrocin 500 - Stock Batch 4,Square Pharmaceuticals PLC,Antibiotic,155.55,173.35,194,7/16/2027,City Pharma Supplier
+358,Zimax 500 - Stock Batch 4,Square Pharmaceuticals PLC,Antibiotic,180.36,209.34,234,5/16/2028,Sample Wholesale Pharmacy
+359,Zimax 250 - Stock Batch 4,Square Pharmaceuticals PLC,Antibiotic,94.81,105.95,157,11/28/2027,North Bengal Medical Supply
+360,Cef-3 200 - Stock Batch 4,Square Pharmaceuticals PLC,Antibiotic,160.17,193.08,168,7/19/2030,Central Medicine Store
+361,Cef-3 400 - Stock Batch 4,Square Pharmaceuticals PLC,Antibiotic,94.85,112.93,183,12/23/2027,Green Cross Medicine Depot
+362,Cefix 200 - Stock Batch 4,Incepta Pharmaceuticals Ltd.,Antibiotic,159.31,180.93,171,2/24/2028,City Pharma Supplier
+363,Amoxil 500 - Stock Batch 4,GlaxoSmithKline Bangladesh Ltd.,Antibiotic,168.52,193.3,166,5/10/2027,Sample Wholesale Pharmacy
+364,Moxaclav 625 - Stock Batch 4,Incepta Pharmaceuticals Ltd.,Antibiotic,130.72,153.36,57,7/12/2029,North Bengal Medical Supply
+365,Flagyl 400 - Stock Batch 4,Sanofi Bangladesh Ltd.,Antibiotic,148.51,184.26,59,3/11/2028,Central Medicine Store
+366,Ciprocin 500 - Stock Batch 4,Square Pharmaceuticals PLC,Antibiotic,185.55,215.36,151,4/23/2029,Green Cross Medicine Depot
+367,Fungidal 150 - Stock Batch 4,Square Pharmaceuticals PLC,Antifungal,42.21,51.64,100,7/11/2030,City Pharma Supplier
+368,Flugal 150 - Stock Batch 4,Incepta Pharmaceuticals Ltd.,Antifungal,110.6,132.82,197,5/15/2030,Sample Wholesale Pharmacy
+369,A-Fenac 50 - Stock Batch 4,Square Pharmaceuticals PLC,Pain & Inflammation,248.2,278.36,236,8/4/2028,North Bengal Medical Supply
+370,Voltalin 50 - Stock Batch 4,Novartis Bangladesh Ltd.,Pain & Inflammation,44.13,53.17,72,5/9/2029,Central Medicine Store
+371,Naprox 500 - Stock Batch 4,Square Pharmaceuticals PLC,Pain & Inflammation,86.45,105.67,227,11/1/2027,Green Cross Medicine Depot
+372,Rolac 10 - Stock Batch 4,Square Pharmaceuticals PLC,Pain & Inflammation,50.36,57.46,249,2/9/2030,City Pharma Supplier
+373,Ecosprin 75 - Stock Batch 4,USV Private Limited,Cardiac,59.28,68.2,40,12/17/2029,Sample Wholesale Pharmacy
+374,Clopid 75 - Stock Batch 4,Incepta Pharmaceuticals Ltd.,Cardiac,54.21,64.9,51,3/20/2030,North Bengal Medical Supply
+375,Atova 10 - Stock Batch 4,Square Pharmaceuticals PLC,Cholesterol,88.24,100.13,172,8/27/2027,Central Medicine Store
+376,Rosuva 10 - Stock Batch 4,Incepta Pharmaceuticals Ltd.,Cholesterol,229.89,281.13,40,7/8/2027,Green Cross Medicine Depot
+377,Bizoran 5/20 - Stock Batch 4,Beximco Pharmaceuticals Ltd.,Blood Pressure,68.24,82.69,179,5/23/2027,City Pharma Supplier
+378,Amdocal 5 - Stock Batch 4,Square Pharmaceuticals PLC,Blood Pressure,22.22,24.9,88,8/29/2030,Sample Wholesale Pharmacy
+379,Telsar 40 - Stock Batch 4,Healthcare Pharmaceuticals Ltd.,Blood Pressure,212.8,238.1,184,3/20/2028,North Bengal Medical Supply
+380,Telsar 80 - Stock Batch 4,Healthcare Pharmaceuticals Ltd.,Blood Pressure,92.85,106.47,164,1/1/2030,Central Medicine Store
+381,Bislol 2.5 - Stock Batch 4,Incepta Pharmaceuticals Ltd.,Blood Pressure,50.64,60.95,223,4/8/2028,Green Cross Medicine Depot
+382,Bislol 5 - Stock Batch 4,Incepta Pharmaceuticals Ltd.,Blood Pressure,173.63,199.26,124,3/27/2028,City Pharma Supplier
+383,Comet 500 - Stock Batch 4,Square Pharmaceuticals PLC,Diabetes,193.63,227.38,166,8/14/2027,Sample Wholesale Pharmacy
+384,Comet 850 - Stock Batch 4,Square Pharmaceuticals PLC,Diabetes,63.07,73.79,129,7/25/2027,North Bengal Medical Supply
+385,Glucomet 500 - Stock Batch 4,Incepta Pharmaceuticals Ltd.,Diabetes,140.99,168.58,214,10/18/2028,Central Medicine Store
+386,Thyrox 25 - Stock Batch 4,Incepta Pharmaceuticals Ltd.,Thyroid,37.98,46.99,169,3/13/2029,Green Cross Medicine Depot
+387,Thyrox 50 - Stock Batch 4,Incepta Pharmaceuticals Ltd.,Thyroid,185.2,216.6,198,9/23/2029,City Pharma Supplier
+388,Mixtard 30 - Stock Batch 4,Novo Nordisk Pharma (Pvt.) Ltd.,Diabetes,22.63,25.84,114,6/27/2027,Sample Wholesale Pharmacy
+389,Rivotril 0.5 - Stock Batch 4,Radiant Pharmaceuticals Ltd.,Neurology,175.13,195.68,63,7/23/2030,North Bengal Medical Supply
+390,Rivotril 2 - Stock Batch 4,Radiant Pharmaceuticals Ltd.,Neurology,55.04,61.21,32,1/3/2028,Central Medicine Store
+391,Losectil - Stock Batch 4,Eskayef Pharmaceuticals Ltd.,Gastric,11.34,13.91,134,12/19/2028,Green Cross Medicine Depot
+392,Neotack - Stock Batch 4,Square Pharmaceuticals PLC,Gastric,137.92,152.74,109,4/8/2028,City Pharma Supplier
+393,Xelium 20 - Stock Batch 4,Healthcare Pharmaceuticals Ltd.,Gastric,17,20.21,190,6/13/2029,Sample Wholesale Pharmacy
+394,Avolac - Stock Batch 4,Incepta Pharmaceuticals Ltd.,Digestive,178.61,204.17,206,6/30/2027,North Bengal Medical Supply
+395,Dulcolax 5 - Stock Batch 4,Opella Healthcare,Digestive,222.01,254.57,225,2/25/2030,Central Medicine Store
+396,Lactulax - Stock Batch 4,Square Pharmaceuticals PLC,Digestive,173.95,206.02,124,12/11/2028,Green Cross Medicine Depot
+397,Ceevit DS - Stock Batch 4,Square Pharmaceuticals PLC,Vitamin & Mineral,59.84,71.29,181,12/17/2029,City Pharma Supplier
+398,Bicozin - Stock Batch 4,Square Pharmaceuticals PLC,Vitamin & Mineral,211.7,234.95,51,11/13/2027,Sample Wholesale Pharmacy
+399,Bicozin-I - Stock Batch 4,Square Pharmaceuticals PLC,Vitamin & Mineral,138.72,166.16,245,8/12/2030,North Bengal Medical Supply
+400,Ostocal-D - Stock Batch 4,Square Pharmaceuticals PLC,Vitamin & Mineral,91.75,113.86,68,11/5/2027,Central Medicine Store
+401,Calbo 500 - Stock Batch 4,Square Pharmaceuticals PLC,Vitamin & Mineral,126.53,144.27,100,10/7/2027,Green Cross Medicine Depot
+402,Napa Suppository - Stock Batch 4,Beximco Pharmaceuticals Ltd.,Pain & Fever,135.74,164.91,80,4/16/2030,City Pharma Supplier
+403,Napa Pediatric Drops - Stock Batch 4,Beximco Pharmaceuticals Ltd.,Pain & Fever,243.09,303.72,238,10/23/2027,Sample Wholesale Pharmacy
+404,Ace Pediatric Drops - Stock Batch 4,Square Pharmaceuticals PLC,Pain & Fever,241.04,278.28,85,9/10/2030,North Bengal Medical Supply
+405,Sergel Sachet - Stock Batch 4,Healthcare Pharmaceuticals Ltd.,Gastric,48.33,53.8,247,9/5/2028,Central Medicine Store
+406,Acifix Suspension - Stock Batch 4,ACI Limited,Gastric,41.26,51.15,227,7/11/2029,Green Cross Medicine Depot
+407,Acifix Tablet - Stock Batch 4,ACI Limited,Gastric,100.87,115.53,153,1/1/2029,City Pharma Supplier
+408,Sergel Tablet - Stock Batch 4,Healthcare Pharmaceuticals Ltd.,Gastric,139.2,173.71,194,5/2/2029,Sample Wholesale Pharmacy
+409,Napa 500 - Stock Batch 5,Beximco Pharmaceuticals Ltd.,Pain & Fever,34.48,42.6,109,7/9/2028,Green Cross Medicine Depot
+410,Napa Extra - Stock Batch 5,Beximco Pharmaceuticals Ltd.,Pain & Fever,169.09,202.43,223,6/2/2029,City Pharma Supplier
+411,Napa Extend 665 - Stock Batch 5,Beximco Pharmaceuticals Ltd.,Pain & Fever,170.42,187.99,234,12/29/2028,Sample Wholesale Pharmacy
+412,Napa Rapid - Stock Batch 5,Beximco Pharmaceuticals Ltd.,Pain & Fever,182.38,202.04,173,7/13/2028,North Bengal Medical Supply
+413,Napa Syrup - Stock Batch 5,Beximco Pharmaceuticals Ltd.,Pain & Fever,9.21,10.94,87,6/16/2027,Central Medicine Store
+414,Napa Suspension - Stock Batch 5,Beximco Pharmaceuticals Ltd.,Pain & Fever,117.32,135.44,214,4/27/2029,Green Cross Medicine Depot
+415,Ace 500 - Stock Batch 5,Square Pharmaceuticals PLC,Pain & Fever,158.69,196.78,47,9/16/2028,City Pharma Supplier
+416,Ace Plus - Stock Batch 5,Square Pharmaceuticals PLC,Pain & Fever,172.4,200.36,203,12/29/2028,Sample Wholesale Pharmacy
+417,Ace XR - Stock Batch 5,Square Pharmaceuticals PLC,Pain & Fever,193.46,235.83,61,5/6/2029,North Bengal Medical Supply
+418,Ace Syrup - Stock Batch 5,Square Pharmaceuticals PLC,Pain & Fever,74.54,87.3,122,12/23/2028,Central Medicine Store
+419,Sergel 20 - Stock Batch 5,Healthcare Pharmaceuticals Ltd.,Gastric,228.6,265.72,205,3/26/2030,Green Cross Medicine Depot
+420,Sergel 40 - Stock Batch 5,Healthcare Pharmaceuticals Ltd.,Gastric,195.26,226.4,2,7/15/2030,City Pharma Supplier
+421,Acifix 20 - Stock Batch 5,ACI Limited,Gastric,147.34,182.59,30,5/29/2029,Sample Wholesale Pharmacy
+422,Acifix 40 - Stock Batch 5,ACI Limited,Gastric,38.7,43.6,116,11/17/2029,North Bengal Medical Supply
+423,Seclo 20 - Stock Batch 5,Square Pharmaceuticals PLC,Gastric,97.73,113.23,15,8/12/2027,Central Medicine Store
+424,Seclo 40 - Stock Batch 5,Square Pharmaceuticals PLC,Gastric,236.04,274.85,133,10/24/2029,Green Cross Medicine Depot
+425,Maxpro 20 - Stock Batch 5,Renata PLC,Gastric,188.5,235.62,244,8/13/2029,City Pharma Supplier
+426,Maxpro 40 - Stock Batch 5,Renata PLC,Gastric,83.38,97.34,62,1/25/2028,Sample Wholesale Pharmacy
+427,Pantonix 20 - Stock Batch 5,Incepta Pharmaceuticals Ltd.,Gastric,84.93,105.68,67,7/4/2029,North Bengal Medical Supply
+428,Pantonix 40 - Stock Batch 5,Incepta Pharmaceuticals Ltd.,Gastric,162.07,187.86,110,10/2/2028,Central Medicine Store
+429,Nexum 20 - Stock Batch 5,Healthcare Pharmaceuticals Ltd.,Gastric,55.95,67.03,3,5/30/2030,Green Cross Medicine Depot
+430,Nexum 40 - Stock Batch 5,Healthcare Pharmaceuticals Ltd.,Gastric,233.77,269.56,40,10/17/2030,City Pharma Supplier
+431,Losectil 20 - Stock Batch 5,Eskayef Pharmaceuticals Ltd.,Gastric,35,43.44,128,11/6/2030,Sample Wholesale Pharmacy
+432,Exium 20 - Stock Batch 5,Radiant Pharmaceuticals Ltd.,Gastric,118.26,139.82,84,10/5/2029,North Bengal Medical Supply
+433,Finix 20 - Stock Batch 5,Incepta Pharmaceuticals Ltd.,Gastric,151.67,184.78,82,7/16/2030,Central Medicine Store
+434,Omidon 10 - Stock Batch 5,Square Pharmaceuticals PLC,Digestive,71.21,78.82,149,7/25/2030,Green Cross Medicine Depot
+435,Orsaline-N - Stock Batch 5,SMC Enterprise Ltd.,Oral Saline,98.91,110.68,85,8/23/2030,City Pharma Supplier
+436,Orsaline Fruity - Stock Batch 5,SMC Enterprise Ltd.,Oral Saline,87.25,105.2,42,4/2/2028,Sample Wholesale Pharmacy
+437,Zinc-B - Stock Batch 5,Popular Pharmaceuticals PLC,Vitamin & Mineral,17,20.97,11,4/10/2028,North Bengal Medical Supply
+438,Xinc B - Stock Batch 5,Square Pharmaceuticals PLC,Vitamin & Mineral,212.77,258.83,108,6/5/2029,Central Medicine Store
+439,Ceevit 250 - Stock Batch 5,Square Pharmaceuticals PLC,Vitamin & Mineral,233.27,258.18,172,7/31/2030,Green Cross Medicine Depot
+440,Ceevit 500 - Stock Batch 5,Square Pharmaceuticals PLC,Vitamin & Mineral,180.15,218.08,196,5/2/2027,City Pharma Supplier
+441,Bextram Gold - Stock Batch 5,Beximco Pharmaceuticals Ltd.,Vitamin & Mineral,63.05,72.57,73,1/20/2028,Sample Wholesale Pharmacy
+442,Bextram Silver - Stock Batch 5,Beximco Pharmaceuticals Ltd.,Vitamin & Mineral,126.87,153.73,79,5/11/2030,North Bengal Medical Supply
+443,E-Cap 200 - Stock Batch 5,Drug International Ltd.,Vitamin & Mineral,151.05,166.95,186,6/9/2030,Central Medicine Store
+444,E-Cap 400 - Stock Batch 5,Drug International Ltd.,Vitamin & Mineral,91.42,110.36,218,7/29/2028,Green Cross Medicine Depot
+445,Coralcal-D - Stock Batch 5,Incepta Pharmaceuticals Ltd.,Vitamin & Mineral,51.34,59.89,150,12/14/2027,City Pharma Supplier
+446,Calbo-D - Stock Batch 5,Square Pharmaceuticals PLC,Vitamin & Mineral,24.12,28.81,53,5/21/2030,Sample Wholesale Pharmacy
+447,Filwel Gold - Stock Batch 5,Square Pharmaceuticals PLC,Vitamin & Mineral,131.64,164.22,149,8/17/2030,North Bengal Medical Supply
+448,Neuro-B - Stock Batch 5,Beximco Pharmaceuticals Ltd.,Vitamin & Mineral,160.37,193.72,235,6/14/2030,Central Medicine Store
+449,Fexo 120 - Stock Batch 5,Square Pharmaceuticals PLC,Allergy,243.16,287.97,72,2/8/2029,Green Cross Medicine Depot
+450,Fexo 180 - Stock Batch 5,Square Pharmaceuticals PLC,Allergy,242.37,293.49,197,7/1/2029,City Pharma Supplier
+451,Alatrol 10 - Stock Batch 5,Square Pharmaceuticals PLC,Allergy,199.13,236.25,160,9/24/2028,Sample Wholesale Pharmacy
+452,Histacin - Stock Batch 5,Renata PLC,Allergy,137.15,160.58,151,5/2/2027,North Bengal Medical Supply
+453,Bilastin 20 - Stock Batch 5,Incepta Pharmaceuticals Ltd.,Allergy,222.74,247.45,69,3/1/2028,Central Medicine Store
+454,Monas 10 - Stock Batch 5,ACME Laboratories Ltd.,Respiratory,107.21,118.75,228,2/20/2029,Green Cross Medicine Depot
+455,Monas 5 - Stock Batch 5,ACME Laboratories Ltd.,Respiratory,248.04,288.06,58,2/12/2028,City Pharma Supplier
+456,Montene 10 - Stock Batch 5,Healthcare Pharmaceuticals Ltd.,Respiratory,231.35,279.39,106,11/24/2027,Sample Wholesale Pharmacy
+457,Telfast 120 - Stock Batch 5,Sanofi Bangladesh Ltd.,Allergy,50.23,62.07,201,5/10/2028,North Bengal Medical Supply
+458,Telfast 180 - Stock Batch 5,Sanofi Bangladesh Ltd.,Allergy,238.21,285.59,27,8/21/2027,Central Medicine Store
+459,Azithrocin 500 - Stock Batch 5,Square Pharmaceuticals PLC,Antibiotic,144.98,173.99,174,8/17/2030,Green Cross Medicine Depot
+460,Zimax 500 - Stock Batch 5,Square Pharmaceuticals PLC,Antibiotic,169.56,198.59,159,2/3/2029,City Pharma Supplier
+461,Zimax 250 - Stock Batch 5,Square Pharmaceuticals PLC,Antibiotic,240.41,300.49,77,10/25/2028,Sample Wholesale Pharmacy
+462,Cef-3 200 - Stock Batch 5,Square Pharmaceuticals PLC,Antibiotic,117.59,131.59,35,1/7/2029,North Bengal Medical Supply
+463,Cef-3 400 - Stock Batch 5,Square Pharmaceuticals PLC,Antibiotic,218.03,254.35,33,4/2/2028,Central Medicine Store
+464,Cefix 200 - Stock Batch 5,Incepta Pharmaceuticals Ltd.,Antibiotic,188.04,224.14,142,4/28/2030,Green Cross Medicine Depot
+465,Amoxil 500 - Stock Batch 5,GlaxoSmithKline Bangladesh Ltd.,Antibiotic,12.55,14.57,38,9/28/2028,City Pharma Supplier
+466,Moxaclav 625 - Stock Batch 5,Incepta Pharmaceuticals Ltd.,Antibiotic,103.3,118.84,65,2/7/2028,Sample Wholesale Pharmacy
+467,Flagyl 400 - Stock Batch 5,Sanofi Bangladesh Ltd.,Antibiotic,230.32,282.24,193,2/10/2028,North Bengal Medical Supply
+468,Ciprocin 500 - Stock Batch 5,Square Pharmaceuticals PLC,Antibiotic,21.64,25.85,183,11/8/2028,Central Medicine Store
+469,Fungidal 150 - Stock Batch 5,Square Pharmaceuticals PLC,Antifungal,194.55,233.61,34,1/5/2028,Green Cross Medicine Depot
+470,Flugal 150 - Stock Batch 5,Incepta Pharmaceuticals Ltd.,Antifungal,141.36,165.03,248,11/28/2030,City Pharma Supplier
+471,A-Fenac 50 - Stock Batch 5,Square Pharmaceuticals PLC,Pain & Inflammation,31.84,39.75,114,1/24/2028,Sample Wholesale Pharmacy
+472,Voltalin 50 - Stock Batch 5,Novartis Bangladesh Ltd.,Pain & Inflammation,180.46,213.03,107,7/27/2028,North Bengal Medical Supply
+473,Naprox 500 - Stock Batch 5,Square Pharmaceuticals PLC,Pain & Inflammation,9.38,11.07,35,12/15/2027,Central Medicine Store
+474,Rolac 10 - Stock Batch 5,Square Pharmaceuticals PLC,Pain & Inflammation,25.69,29.78,236,5/14/2029,Green Cross Medicine Depot
+475,Ecosprin 75 - Stock Batch 5,USV Private Limited,Cardiac,179.49,218.09,81,7/2/2030,City Pharma Supplier
+476,Clopid 75 - Stock Batch 5,Incepta Pharmaceuticals Ltd.,Cardiac,52.8,62.34,111,7/1/2029,Sample Wholesale Pharmacy
+477,Atova 10 - Stock Batch 5,Square Pharmaceuticals PLC,Cholesterol,61.64,73.23,117,10/24/2030,North Bengal Medical Supply
+478,Rosuva 10 - Stock Batch 5,Incepta Pharmaceuticals Ltd.,Cholesterol,246.93,304.7,150,11/10/2029,Central Medicine Store
+479,Bizoran 5/20 - Stock Batch 5,Beximco Pharmaceuticals Ltd.,Blood Pressure,119.85,136.65,154,12/25/2029,Green Cross Medicine Depot
+480,Amdocal 5 - Stock Batch 5,Square Pharmaceuticals PLC,Blood Pressure,13.07,14.99,92,6/3/2027,City Pharma Supplier
+481,Telsar 40 - Stock Batch 5,Healthcare Pharmaceuticals Ltd.,Blood Pressure,35.91,43.49,10,12/19/2028,Sample Wholesale Pharmacy
+482,Telsar 80 - Stock Batch 5,Healthcare Pharmaceuticals Ltd.,Blood Pressure,54.69,62.62,24,4/20/2030,North Bengal Medical Supply
+483,Bislol 2.5 - Stock Batch 5,Incepta Pharmaceuticals Ltd.,Blood Pressure,14.87,16.36,197,2/4/2029,Central Medicine Store
+484,Bislol 5 - Stock Batch 5,Incepta Pharmaceuticals Ltd.,Blood Pressure,92.92,106.21,222,6/9/2030,Green Cross Medicine Depot
+485,Comet 500 - Stock Batch 5,Square Pharmaceuticals PLC,Diabetes,32.37,39.78,183,11/7/2027,City Pharma Supplier
+486,Comet 850 - Stock Batch 5,Square Pharmaceuticals PLC,Diabetes,122.93,136.25,128,4/18/2030,Sample Wholesale Pharmacy
+487,Glucomet 500 - Stock Batch 5,Incepta Pharmaceuticals Ltd.,Diabetes,225.15,274.65,217,7/10/2030,North Bengal Medical Supply
+488,Thyrox 25 - Stock Batch 5,Incepta Pharmaceuticals Ltd.,Thyroid,154.21,176.83,184,11/8/2028,Central Medicine Store
+489,Thyrox 50 - Stock Batch 5,Incepta Pharmaceuticals Ltd.,Thyroid,73.79,88.31,161,5/15/2029,Green Cross Medicine Depot
+490,Mixtard 30 - Stock Batch 5,Novo Nordisk Pharma (Pvt.) Ltd.,Diabetes,245.38,271.94,10,9/25/2030,City Pharma Supplier
+491,Rivotril 0.5 - Stock Batch 5,Radiant Pharmaceuticals Ltd.,Neurology,79.32,93.88,51,4/25/2029,Sample Wholesale Pharmacy
+492,Rivotril 2 - Stock Batch 5,Radiant Pharmaceuticals Ltd.,Neurology,85.02,95.84,119,5/18/2030,North Bengal Medical Supply
+493,Losectil - Stock Batch 5,Eskayef Pharmaceuticals Ltd.,Gastric,143.99,169.27,136,1/22/2028,Central Medicine Store
+494,Neotack - Stock Batch 5,Square Pharmaceuticals PLC,Gastric,19.58,22.35,161,4/9/2030,Green Cross Medicine Depot
+495,Xelium 20 - Stock Batch 5,Healthcare Pharmaceuticals Ltd.,Gastric,201.42,245.75,198,12/27/2028,City Pharma Supplier
+496,Avolac - Stock Batch 5,Incepta Pharmaceuticals Ltd.,Digestive,234.92,273.3,215,1/26/2030,Sample Wholesale Pharmacy
+497,Dulcolax 5 - Stock Batch 5,Opella Healthcare,Digestive,50.68,56.44,162,5/16/2027,North Bengal Medical Supply
+498,Lactulax - Stock Batch 5,Square Pharmaceuticals PLC,Digestive,109.06,122.36,155,12/13/2027,Central Medicine Store
+499,Ceevit DS - Stock Batch 5,Square Pharmaceuticals PLC,Vitamin & Mineral,134.27,167.61,208,6/5/2027,Green Cross Medicine Depot
+500,Bicozin - Stock Batch 5,Square Pharmaceuticals PLC,Vitamin & Mineral,152.99,173.9,122,8/11/2029,City Pharma Supplier
